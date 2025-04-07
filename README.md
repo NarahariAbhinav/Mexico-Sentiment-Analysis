@@ -66,7 +66,7 @@ Mexico Wikipedia Page
 Applied Artificial Intelligence Project – SVKM's NMIMS Hyderabad
 
 👨‍💻 Developed By
-Your Name
+Narahari Abhinav
 
 B.Tech CSE - Data Science
 
