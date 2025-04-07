@@ -71,10 +71,3 @@ Narahari Abhinav
 B.Tech CSE - Data Science
 
 SVKM's NMIMS Hyderabad
-
-
-Let me know if you want:
-- A `requirements.txt` file
-- A zipped folder with everything bundled
-- Screenshots section added to the README  
-Happy to help!
